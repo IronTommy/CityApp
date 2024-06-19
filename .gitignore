@@ -56,7 +56,10 @@ build/
 
 ### VS Code ###
 .vscode/
+<<<<<<< HEAD
 
+=======
+>>>>>>> 16b6e4b91f95c9c3f3de4d86c9337bb5aa13d97a
 # Compiled class file
 *.class
 
@@ -69,6 +72,7 @@ build/
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
+<<<<<<< HEAD
 # Package Files
 *.jar
 *.war
@@ -78,6 +82,8 @@ build/
 *.tar.gz
 *.rar
 
+=======
+>>>>>>> 16b6e4b91f95c9c3f3de4d86c9337bb5aa13d97a
 # JVM crash logs
 hs_err_pid*
 replay_pid*

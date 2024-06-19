@@ -1,9 +1,15 @@
 # CityApp
+<<<<<<< HEAD
 
 Comprehensive service app for Korsakov city residents.
 
 ## Getting Started with Create React App
 
+=======
+Comprehensive service app for Korsakov city residents.
+
+## Getting Started with Create React App
+>>>>>>> 16b6e4b91f95c9c3f3de4d86c9337bb5aa13d97a
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ### Available Scripts
@@ -72,3 +78,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<<<<<<< HEAD
+=======
+>>>>>>> 7aff4b4ce9eab4faeaabde454881b44364eecb6b
+>>>>>>> 16b6e4b91f95c9c3f3de4d86c9337bb5aa13d97a
