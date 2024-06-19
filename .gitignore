@@ -1,5 +1,7 @@
-<<<<<<< HEAD
+# Помощь
 HELP.md
+
+# Целевые каталоги
 target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
@@ -32,20 +34,20 @@ build/
 
 ### VS Code ###
 .vscode/
-=======
-# Compiled class file
+
+# Скомпилированные файлы классов
 *.class
 
-# Log file
+# Файлы логов
 *.log
 
-# BlueJ files
+# Файлы BlueJ
 *.ctxt
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
-# Package Files #
+# Package Files
 *.jar
 *.war
 *.nar
@@ -54,7 +56,9 @@ build/
 *.tar.gz
 *.rar
 
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+# Логи сбоев виртуальной машины
 hs_err_pid*
 replay_pid*
->>>>>>> 634c7552e17c98b161799eeda6be4b4cebfec785
+
+# Исключение для application.properties
+src/main/resources/application.properties
